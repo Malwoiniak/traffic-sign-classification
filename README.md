@@ -1,1 +1,1 @@
-# traffic_sign_prediction
+# traffic_sign_classification
